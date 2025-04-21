@@ -101,4 +101,5 @@ Sharing a snapshot of that amazing moment below 📸
 <p align="center">
 <img src="CS50x.jpg" alt="CS50x.jpg" width="300"/>
 </p>
+
 ---
