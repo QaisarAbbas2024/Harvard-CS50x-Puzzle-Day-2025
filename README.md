@@ -58,9 +58,9 @@ Harvard's CS50x Puzzle Day is an annual global event where teams solve a set of 
 
 ---
 
-## 🧩 Puzzle Spotlight: Tangram 🟦🔺🔲
+## 🧩 Puzzle Spotlights: Tangram,  🟦🔺🔲
 
-We held a focused team discussion on the **Tangram Puzzle** on **April 5, 2025 at 7:00 PM**.  
+We held many focused team discussions on Zoom to solve the puzzles like **Tangram Puzzle** on **April 5, 2025 at 7:00 PM**.  
 It was an incredible session for sharpening spatial reasoning and team synergy!
 
 ---
