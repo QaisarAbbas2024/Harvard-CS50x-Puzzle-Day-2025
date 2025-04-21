@@ -62,9 +62,9 @@ Harvard's CS50x Puzzle Day is an annual global event where teams solve a set of 
 
 We held many focused team discussions on Zoom to solve the puzzles like **Tangram Puzzle** on **April 5, 2025 at 7:00 PM**.  
 It was an incredible session for sharpening spatial reasoning and team synergy!
-Here are a few snapshots from our live Zoom sessions:
+Here are a few snapshots from our live Zoom sessions depicting our collaboration journey.:
 
-<p align="left">
+<p align="center">
   <img src="CS50x Pictures - 1.jfif" alt="CS50x Pictures - 1.jfif" width="400"/>
   <img src="CS50x Pictures - 2.jfif" alt="CS50x Pictures - 2.jfif" width="400"/>
   <img src="CS50x Pictures - 3.jfif" alt="CS50x Pictures - 3.jfif" width="400"/>
@@ -76,8 +76,12 @@ Here are a few snapshots from our live Zoom sessions:
 
 ## 💪 We Won! We Solved 9/9 Puzzles!
 
-Our team successfully solved all 9 puzzles in the **CS50x Puzzle Day 2025** event! It was a great learning experience, and we collaborated seamlessly to find creative solutions. The intense teamwork and grind were rewarding, and each puzzle was an opportunity to push ourselves further. Here's a glimpse of our collaboration journey.
+Our team successfully solved all 9 puzzles in the **CS50x Puzzle Day 2025** event! It was a great learning experience, and we collaborated seamlessly to find creative solutions. The intense teamwork and grind were rewarding, and each puzzle was an opportunity to push ourselves further. 
+What made the moment even more special? The results were announced live while we were in a Zoom meeting together — and seeing our answers confirmed as correct in real-time was incredibly satisfying! That instant wave of excitement and joy was something we’ll never forget.
 
+Each puzzle challenged us to think outside the box, and every solution brought us one step closer to that perfect score. Proud to share a glimpse of our journey — including a snapshot of the live results below. 📸✨
+<img src="CS50x Pictures - 4.jpg" alt="CS50x Pictures - 4.jpg" width="400"/>
+ 
 ---
 
 ## 📷 Glimpses of our Team Work in the Event
