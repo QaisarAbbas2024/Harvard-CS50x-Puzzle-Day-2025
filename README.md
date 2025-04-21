@@ -8,6 +8,7 @@
 # 🧠🧩 CS50x PUZZLE DAY 2025 – HARVARD UNIVERSITY
 
 Welcome to the official documentation for my participation in **Harvard CS50x Puzzle Day 2025**! 🎉
+
 This repository captures my journey, solutions, and key takeaways from **CS50x Puzzle Day 2025**, an official global problem-solving event hosted by **Harvard University**.
 
 🔗 **Official Event Link:** [cs50.harvard.edu/x/puzzles](https://cs50.harvard.edu/x/puzzles)
