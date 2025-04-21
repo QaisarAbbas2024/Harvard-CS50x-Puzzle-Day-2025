@@ -42,7 +42,7 @@ Harvard's CS50x Puzzle Day is an annual global event where teams solve a set of 
 ---
 ## 📜 Certificate of Participation
 
-![CS50x Puzzle Day 2025 Certificate](CS50x%Puzzle%Day%2025%Certificate.png)
+<img src="CS50x Puzzle Day 2025 Certificate" alt="CS50x Puzzle Day 2025 Certificate" width="400"/>
 
 🔗 **[View Full Certificate (PDF)](https://certificates.cs50.io/cc100bf3-f96b-4309-a3d0-99d0bd8af9fa.pdf?size=letter)**
 
@@ -62,6 +62,12 @@ Harvard's CS50x Puzzle Day is an annual global event where teams solve a set of 
 
 We held many focused team discussions on Zoom to solve the puzzles like **Tangram Puzzle** on **April 5, 2025 at 7:00 PM**.  
 It was an incredible session for sharpening spatial reasoning and team synergy!
+Here are a few snapshots from our live Zoom sessions:
+
+<p align="left">
+  <img src="DSA W1 D1 img1.jpg" alt="DSA W1 D1 img1" width="400"/>
+  <img src="DSA W1 D1 img2.jpg" alt="DSA W1 D1 img2" width="400"/>
+</p>
 
 ---
 
