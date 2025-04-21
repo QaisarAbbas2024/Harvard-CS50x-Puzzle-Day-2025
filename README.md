@@ -65,8 +65,11 @@ It was an incredible session for sharpening spatial reasoning and team synergy!
 Here are a few snapshots from our live Zoom sessions:
 
 <p align="left">
-  <img src="DSA W1 D1 img1.jpg" alt="DSA W1 D1 img1" width="400"/>
-  <img src="DSA W1 D1 img2.jpg" alt="DSA W1 D1 img2" width="400"/>
+  <img src="CS50x Pictures - 1.jfif" alt="CS50x Pictures - 1.jfif" width="400"/>
+  <img src="CS50x Pictures - 2.jfif" alt="CS50x Pictures - 2.jfif" width="400"/>
+  <img src="CS50x Pictures - 3.jfif" alt="CS50x Pictures - 3.jfif" width="400"/>
+  <img src="CS50x Pictures - 4.jfif" alt="CS50x Pictures - 4.jfif" width="400"/>
+  <img src="CS50x Pictures - 5.jfif" alt="CS50x Pictures - 5.jfif" width="400"/>
 </p>
 
 ---
