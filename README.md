@@ -60,7 +60,7 @@ Harvard's CS50x Puzzle Day is an annual global event where teams solve a set of 
 
 ## 📷 Glimpses of our Team Work in the Event
 
-We held many focused team discussions on Zoom to solve the puzzles like **The Blind Maze, Wavelength and Code Names** on **April 5, 2025 at 7:00 PM**.  
+We held many focused team discussions on Zoom to solve the puzzles like **Powers of Two, The Blind Maze, Wavelength, Code Names and all others** from **April 4-7, 2025**.  
 It was an incredible session for sharpening spatial reasoning and team synergy!
 Here are a few snapshots from our live Zoom sessions depicting our collaboration journey.:
 
@@ -89,12 +89,6 @@ Sharing a snapshot of that amazing moment below 📸
 </p>
 ---
 
-## 📷 Glimpses of our Team Work in the Event
-
-_(Add your own photos or group shots here)_
-
----
-
 ## 🔗 Featured On LinkedIn
 
 📣 [Check out my LinkedIn Post here](https://www.linkedin.com/feed/update/urn:li:activity:7316549317299789824/)  
@@ -104,4 +98,7 @@ _(Add your own photos or group shots here)_
 
 ## 💥 CS50x Puzzle Day 2025  
 **The Ultimate Global Challenge in Logic, Fun, and Friendship!** 🌍🧠🎉
+<p align="center">
+<img src="CS50x.jpg" alt="CS50x.jpg" width="300"/>
+</p>
 ---
