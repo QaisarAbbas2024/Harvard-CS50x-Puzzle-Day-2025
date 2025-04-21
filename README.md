@@ -82,7 +82,7 @@ What made the moment even more special? The results were announced live while we
 Each puzzle challenged us to think outside the box, and every solution brought us one step closer to that perfect score. Proud to share a glimpse of our journey — including a snapshot of the live results below. 📸✨
 
 <img src="CS50x Result Webinar.jfif" alt="CS50x Result Webinar.jfif" width="400"/>
-<img src="CS50x Result Webinar.jfif1" alt="CS50x Result Webinar.jfif1" width="400"/>
+<img src="CS50x Result Webinar1.jfif" alt="CS50x Result Webinar1.jfif" width="400"/>
  
 ---
 
