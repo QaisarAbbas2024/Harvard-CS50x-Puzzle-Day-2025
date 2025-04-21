@@ -42,7 +42,7 @@ Harvard's CS50x Puzzle Day is an annual global event where teams solve a set of 
 ---
 ## 📜 Certificate of Participation
 
-![CS50x Puzzle Day 2025 Certificate](.PNG/JPG)
+![CS50x Puzzle Day 2025 Certificate](CS50x%Puzzle%Day%2025%Certificate.png)
 
 🔗 **[View Full Certificate (PDF)](https://certificates.cs50.io/cc100bf3-f96b-4309-a3d0-99d0bd8af9fa.pdf?size=letter)**
 
